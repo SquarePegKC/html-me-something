@@ -1,0 +1,34 @@
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: #ee898e;
+  }
+img {
+    width: 15em; 
+    height: 10em;
+}
+h1 {
+    text-align: center;
+}
+body {
+    font-size: 18px;
+}
+img.one{
+    height: 25%;
+    width: 25%;
+    text-align: left;
+}
+img.three {
+    height: 25%;
+    width: 25%;
+}
+img.seven {
+    height: 25%;
+    width: 25%;
+}
+footer {
+    text-align: center;    
+}
+
